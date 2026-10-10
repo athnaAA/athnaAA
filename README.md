@@ -16,6 +16,9 @@ As a biology student, I'm now exploring Python, bioinformatics, and data, while 
 
 ### 𓆩ꨄ︎𓆪  Projects
 
+𖦹 **Pomodoro with my cat**
+A pomodoro website with Leo, my cat, where you can add a To-do list.
+
 𖦹 **Hangman**
 A simple Python implementation of the classic Hangman game.
 
