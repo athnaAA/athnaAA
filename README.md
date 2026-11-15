@@ -16,17 +16,20 @@ As a biology student, I'm now exploring Python, bioinformatics, and data, while 
 
 ### 𓆩ꨄ︎𓆪  Projects
 
+#### ✧ Released
+
+𖦹 **[Hangman](https://github.com/athnaAA/pendu-python)**
+A Python hangman game in the terminal. Accents and capital letters are ignored, and the number of attempts depends on the length of the word.
+
+#### ✧ Coming soon
+
 𖦹 **Pomodoro with my cat**
 A pomodoro website with Leo, my cat, where you can add a To-do list.
-
-𖦹 **Hangman**
-A simple Python implementation of the classic Hangman game.
 
 𖦹 **League of Legends — Support Picker**
 A Python tool that recommends a support champion based on the enemy team composition.
 
 > Learning by building, one project at a time.
-
 
 ---
 
