@@ -8,9 +8,9 @@ Since I was a child, I've always been fascinated by games and nature. Over time,
 
 As a biology student, I'm now exploring Python, bioinformatics, and data, while discovering how code can open new ways to understand the living world. ᨳິ
 
-                            ╱|、
+                           ╱|、
                           (˚ˎ 。7  
-                           |、˜〵          
+                          |、˜〵          
                           じしˍ,)ノ         meow ?
 ---
 
